@@ -545,5 +545,13 @@ document.addEventListener("DOMContentLoaded", function () {
       formStatus.classList.add("form-error");
       return;
     }
+        formStatus.textContent =
+      "Thank you, " + nameValue + ". Your message has been validated.";
+    formStatus.classList.add("form-success");
+    showToast("Message validated");
+    contactForm.reset();
+    messageCounter.textContent = "0 / 10 min chars";
+  });
+});
 
 
