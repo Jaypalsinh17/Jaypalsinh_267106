@@ -1129,8 +1129,4 @@ body.dark-mode .theme-dot {
     transition-duration: 0.01ms !important;
   }
 
-  .reveal {
-    opacity: 1;
-    transform: none;
-  }
-}
+ 
