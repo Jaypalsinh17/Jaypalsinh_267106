@@ -11,7 +11,7 @@ A simple, minimal personal portfolio website built as a B.Tech CSE Semester 3 co
 - Subtle scroll-reveal animations and hover transitions
 - Client-side contact form validation
 
-## Technologies Used
+## Technologies
 
 - HTML5 (semantic structure)
 - CSS3 (CSS variables, Flexbox, Grid, media queries)
