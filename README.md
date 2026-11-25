@@ -21,6 +21,4 @@ A simple, minimal personal portfolio website built as a B.Tech CSE Semester 3 co
 
 ![Portfolio Screenshot](screenshot.png)
 
-## Live Link
-
-Live link: (add after GitHub Pages is on)
+## Live Lin
